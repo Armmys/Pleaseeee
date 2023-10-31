@@ -1,0 +1,1 @@
+book //equally to const title=b
